@@ -19,3 +19,7 @@ Workbox
 ```
 
 ## Links to Deployed Github
+Github: https://github.com/GDonna/19-PWA-Text-Editor.git
+Deployed: https://gdonna.github.io/19-PWA-Text-Editor/
+
+![Image of JATE Page](./Assets/localhost_3000_.png)
