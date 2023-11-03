@@ -23,4 +23,4 @@ Github: https://github.com/GDonna/19-PWA-Text-Editor.git
 Deployed: https://gdonna.github.io/19-PWA-Text-Editor/
 Heroku: https://challenge-19-pwa-text-editor-2fefe3113250.herokuapp.com/
 
-![Image of JATE Page](./Assets/localhost_3000_.png)
+![Image of JATE Page](./assets/localhost_3000_.png)
